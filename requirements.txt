@@ -1,0 +1,6 @@
+requests
+pyTelegramBotAPI
+pytz
+datetime
+bs4
+threading
