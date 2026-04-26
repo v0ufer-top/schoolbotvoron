@@ -8,7 +8,7 @@ import random
 from bs4 import BeautifulSoup
 import threading
 
-TOKEN = '7900558403:AAEECbhUHJSkOYwmLl2bLUP4kqFiYVgOrk8'
+TOKEN = '8632702180:AAHe6Sjit1eiu3a8BGNIp3Pdjg3FuUPbPkQ'
 bot = telebot.TeleBot(TOKEN)
 
 USERS_FILE = "users.txt"
