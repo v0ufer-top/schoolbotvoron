@@ -1,5 +1,5 @@
 requests
-telebot
+pyTelegramBotAPI
 pytz
 datetime
 bs4
